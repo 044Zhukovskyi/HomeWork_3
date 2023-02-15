@@ -1,0 +1,124 @@
+@import url('reset.css');
+
+h1 {
+  font-size: 35px;
+  font-weight: 900;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
+}
+
+.header, .main, .footer {
+  width: 1000px; 
+  margin: 0 auto; 
+}
+
+.banner{
+  text-align: center;
+  
+}
+
+.imgHomePage {
+  border: 2px solid;
+  border-top-color: blue;
+  border-right-color: blue;
+  border-bottom-color: red;
+  border-left-color: red;
+  margin-bottom: 20px;
+} 
+
+h2 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.news{
+  
+  background: rgb(224, 224, 224);
+  font-size: 15px;
+  font-weight: lighter;
+  text-align: justify;
+  line-height: 20px;
+  width: 300px;
+  overflow:auto;
+  margin: 10px; 
+  padding: 10px;
+  border: 3px double black;
+  }
+
+  .liType{
+    border: 3px double black;
+    background: rgb(224, 224, 224);
+    list-style-type:square;
+    margin-left: 14px;
+    margin-bottom: 3px;
+    width: 300px;
+  }
+
+  .wrapper_1 {
+    background-color: grey;
+    border: 2px solid;
+    border-top-color: blue;
+    border-right-color: blue;
+    border-bottom-color: red;
+    border-left-color: red;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+.banner > p{
+  width: 1000px; 
+  margin: 0 auto;
+  background-color: grey;
+  border: 2px solid;
+  border-top-color: blue;
+  border-right-color: blue;
+  border-bottom-color: red;
+  border-left-color: red;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  
+}
+
+table, td, tr{
+	border: 2px solid #000;
+  border-color: red;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.table td{ 
+  width: 80px;
+  height: 70px;
+}
+
+.grey{
+  background: gray;
+}
+
+.hacki{
+  background: rgb(77, 101, 32);
+}
+
+.green{
+  background: greenyellow;
+}
+  
+.darkGreen{
+  background: green;
+
+}
+
+.blue{
+  background: blue;
+}
+
+.yellow{
+  background: yellow;
+}
